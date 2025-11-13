@@ -67,7 +67,6 @@ Document all steps clearly
 
 Prepare validation plots and summaries
 
-Answer interview-style questions on data cleaning
 
 🚀 Key Steps Performed
 ✔ 1. Missing Values Handled
