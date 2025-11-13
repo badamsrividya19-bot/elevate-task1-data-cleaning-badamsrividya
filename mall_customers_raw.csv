@@ -1,0 +1,7 @@
+CustomerID ,Gender,Age,Annual Income (k$),Spending Score (1-100),JoinDate
+1.0,Male,19,15,39.0,2019/07/01
+2.0,FEMALE,35,35,81.0,07-12-2018
+2.0,female ,40,35,81.0,2018-12-07
+3.0,MALE ,23,64,77.0,
+4.0,,,120,,2020.01.05
+,FeMale,31,,40.0,05-06-2019
